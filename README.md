@@ -5,6 +5,8 @@ Health information needs are changing, and the way people seek information can b
 # Introduction
 With the rise in the number of patients and diseases every year, the medical system is overloaded and has become overpriced in many countries. Most diseases involve consultation with doctors to get treated. With sufficient data, predicting a disease using an algorithm can be very easy and cheap. Prediction of disease by looking at symptoms is an integral part of treatment. In our project, we have tried to accurately predict a disease by analyzing the symptoms of the patient. We used 4 different algorithms for this purpose, achieving an accuracy of 92-95%. Such a system can have a significant potential in the medical treatment of the future. We also designed an interactive interface to facilitate interaction with the system. We attempted to visualize the results of our study and project.
 
+![Framework of the Model](https://github.com/user-attachments/assets/81623619-c054-47f4-a31f-86b3e85e86ca)
+
 # Database Collection
 The dataset for this project was collected from a study by the University of Columbia performed at New York Presbyterian Hospital in 2004. The dataset is available [here](https://example.com).
 
@@ -33,6 +35,9 @@ The dataset for this project was collected from a study by the University of Col
 
 # Models
 We used four different models to predict diseases:
+
+![Flowchart of the Model](https://github.com/user-attachments/assets/1490c6c6-5c56-4d4b-8879-74337e0cce0c)
+
 1. **Decision Tree**  
    A versatile classification technique, effective in complex problems due to its high adaptability. It gives an accuracy of ~95%.
 
@@ -46,7 +51,9 @@ We used four different models to predict diseases:
    Based on the Naïve Bayes theorem, this algorithm assumes that features make an independent and equal contribution to the prediction, achieving ~95% accuracy.
 
 # GUI
-We created a simple tkinter GUI consisting of labels, message boxes, buttons, text, title, and option menus. The GUI facilitates user interaction with the model.
+We created a simple tkinter GUI consisting of labels, message boxes, buttons, text, title, and option menus. The GUI facilitates user interaction with the model. 
+
+![GUI of the MODEL](https://github.com/user-attachments/assets/17690eac-6b1f-4f46-a9a9-f84f4c0198d1)
 
 # Modules
 **Functions used:**
