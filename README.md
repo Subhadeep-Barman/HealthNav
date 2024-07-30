@@ -1,0 +1,2 @@
+# HealthNav
+ HealthNav is a project aimed at providing an intelligent system that can predict diseases based on specified symptoms. The system is designed to be user-friendly and accessible to everyone, providing individuals with the ability to monitor their health and detect potential illnesses early. The project uses advanced machine learning algorithms to analyse a vast amount of medical data and identify patterns and correlations between symptoms and diseases.
